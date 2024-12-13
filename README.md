@@ -58,6 +58,10 @@ write.csv(df, "clean_df.csv")
 ```
 
 ### Step 2: Visualization in Power BI
+
+![image](https://github.com/user-attachments/assets/167cfe32-366b-4137-8f9b-66a27920cbed)
+
+
 The cleaned dataset was imported into Power BI, where I designed an interactive dashboard. The dashboard includes the following visualizations:
 1. **📈 Average Rotten Tomatoes Ratings by Genre**
 2. **📆 Number of Movies Produced Per Year**
